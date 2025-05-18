@@ -117,15 +117,15 @@
 <h2>Connect With Me</h2>
 
 <div align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://linkedin.com/in/deniojr" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0D1117&labelColor=00A3E0" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:deniojr@proton.me" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=0D1117&labelColor=00A3E0" alt="Email" />
   </a>
-  <a href="https://your-portfolio-site.com" target="_blank">
+<!--   <a href="https://your-portfolio-site.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00E0CF?style=for-the-badge&logo=internet-explorer&logoColor=white&color=0D1117&labelColor=00A3E0" alt="Portfolio" />
-  </a>
+  </a> -->
 </div>
 
 <!-- Footer -->
