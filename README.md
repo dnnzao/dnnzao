@@ -113,6 +113,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dnnzao&theme=react-dark&bg_color=0D1117&hide_border=true&line=00E0CF&point=00E0CF&color=00E0CF&area=true&area_color=00E0CF" alt="Contribution Activity Graph" />
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dnnzao/dnnzao/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dnnzao/dnnzao/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/dnnzao/dnnzao/output/github-snake.svg" />
+</picture>
+
 <!-- Contact Information -->
 <h2>Connect With Me</h2>
 
