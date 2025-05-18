@@ -1,4 +1,4 @@
-<!-- Pixel Art Banner -->
+r<!-- Pixel Art Banner -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/dnnzao/dnnzao/main/assets/banner.svg" alt="Gaming Banner" width="100%">
 </div>
@@ -12,7 +12,7 @@
 <h3 align="center">Software Engineer | Backend Developer | Data Engineer</h3>
 
 <div align="center">
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://linkedin.com/in/deniojr">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:your.email@example.com">
