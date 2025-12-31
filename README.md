@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A3E0,100:00E0CF&height=200&section=header&text=Dênio%20Barbosa%20Júnior&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20Backend%20%26%20Data%20Integration&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A3E0,100:00E0CF&height=200&section=header&text=Dênio%20Barbosa%20Júnior&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20Backend%20Developer%20|%20Data%20Engineer&descAlignY=55"/>
 
   <h3>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00E0CF&center=true&vCenter=true&width=500&lines=Legacy+Modernization+Specialist;Automating+Data+Workflows;Python+%7C+.NET+%7C+SQL+%7C+Go;Migrating+Mainframe+to+Cloud" alt="Typing SVG" />
