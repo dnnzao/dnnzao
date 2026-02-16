@@ -16,7 +16,7 @@
   My engineering philosophy is simple: <b>Efficiency First</b>. I recently engineered a Python/C# solution that reduced a critical banking workflow from <b>1 week of manual entry to under 2 minutes</b>.
 </p>
 <p>
-  I am pivoting my career toward <b>Data Engineering and Backend Systems</b>. I use <b>Python</b> to script complex data utilities and am actively learning <b>Go</b> to build scalable, distributed systems.
+  I am pivoting my career toward <b>Data Science / Data Engineering</b>. I use <b>Python</b> to script complex data utilities and am actively learning <b>Go</b> to build scalable, distributed systems.
 </p>
 
 <div align="center">
